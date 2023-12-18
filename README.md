@@ -21,7 +21,6 @@ Dabbling in the magical arts of coding with spells like:
 
 # 📊 GitHub Saga:
 ![](https://github-readme-stats.vercel.app/api?username=aljuhaeda&theme=graywhite&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=aljuhaeda&theme=graywhite&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=aljuhaeda&theme=graywhite&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ### ✍️ Random Dev Wisdom
