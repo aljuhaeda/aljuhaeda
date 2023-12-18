@@ -20,7 +20,6 @@ Dabbling in the magical arts of coding with spells like:
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
 # 📊 GitHub Saga:
-![](https://github-readme-stats.vercel.app/api?username=aljuhaeda&theme=graywhite&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=aljuhaeda&theme=graywhite&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ### ✍️ Random Dev Wisdom
