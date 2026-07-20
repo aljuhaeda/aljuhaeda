@@ -6,6 +6,8 @@ Bogor, Indonesia
 
 I build ML models and data-driven applications, with published research in NLP and hands-on projects across text classification, medical imaging, and financial risk prediction.
 
+**Portfolio:** [github.com/aljuhaeda/portfolio-website](https://github.com/aljuhaeda/portfolio-website) *(live deploy coming soon)*
+
 ---
 
 ### Focus
@@ -18,9 +20,10 @@ I build ML models and data-driven applications, with published research in NLP a
 
 | Project | Stack | Result |
 | --- | --- | --- |
+| [**IndoNewsClassifier**](https://github.com/aljuhaeda/IndoNewsClassifier) | Python, scikit-learn, NLP | Indonesian news text classifier — [live demo](https://indonewsclassifier.streamlit.app/) |
 | [**KlasifikasiSentimenTwitter**](https://github.com/aljuhaeda/KlasifikasiSentimenTwitter) | Python, scikit-learn, NLP | Naïve Bayes hate-speech classifier — **published in JISMAN Journal, Nov 2024** |
-| [**BreastInsight**](https://github.com/aljuhaeda/BreastInsight) | TensorFlow, Keras | 3-layer CNN classifying breast ultrasound images — 87% accuracy |
-| [**BankruptWatch**](https://github.com/aljuhaeda/BankruptWatch) | scikit-learn, RandomForest, AdaBoost | Corporate bankruptcy prediction on TEJ dataset — 92% accuracy |
+| [**BankruptWatch**](https://github.com/aljuhaeda/BankruptWatch) | scikit-learn, RandomForest, AdaBoost, SMOTE | Corporate bankruptcy risk model — 57% recall on real bankruptcies vs. 0% baseline |
+| [**BreastInsight**](https://github.com/aljuhaeda/BreastInsight) | TensorFlow, Keras | 3-layer CNN classifying breast ultrasound images — 69% validation accuracy |
 
 ### Publication
 
