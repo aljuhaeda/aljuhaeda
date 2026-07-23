@@ -6,7 +6,7 @@ Bogor, Indonesia
 
 I build ML models and data-driven applications, with published research in NLP and hands-on projects across text classification, medical imaging, and financial risk prediction.
 
-**Portfolio:** [github.com/aljuhaeda/portfolio-website](https://github.com/aljuhaeda/portfolio-website) *(live deploy coming soon)*
+**Portfolio:** [portfolioaljuhaeda.vercel.app](https://portfolioaljuhaeda.vercel.app)
 
 ---
 
