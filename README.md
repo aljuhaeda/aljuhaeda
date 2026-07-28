@@ -15,11 +15,13 @@ I build ML models and data-driven applications, with published research in NLP a
 - **Machine Learning & AI** — scikit-learn, TensorFlow, Keras, NLP, CNN, ensemble methods
 - **Data & Analytics** — Pandas, NumPy, Matplotlib, Google Analytics 4, SEMrush
 - **Cloud & Tools** — GCP, AWS (GenAI foundations), Docker, Git
+- **Mobile** — Flutter / Dart, GetX
 
 ### Highlighted Projects
 
 | Project | Stack | Result |
 | --- | --- | --- |
+| [**MuslimAll**](https://github.com/aljuhaeda/MuslimAll) | Flutter, Dart, GetX | Prayer times, full 5-prayer guide, and a 114-surah digital Qur'an reader for any Indonesian city |
 | [**IndoNewsClassifier**](https://github.com/aljuhaeda/IndoNewsClassifier) | Python, scikit-learn, NLP | Indonesian news text classifier — [live demo](https://indonewsclassifier.streamlit.app/) |
 | [**KlasifikasiSentimenTwitter**](https://github.com/aljuhaeda/KlasifikasiSentimenTwitter) | Python, scikit-learn, NLP | Naïve Bayes hate-speech classifier — **published in JISMAN Journal, Nov 2024** |
 | [**BankruptWatch**](https://github.com/aljuhaeda/BankruptWatch) | scikit-learn, RandomForest, AdaBoost, SMOTE | Corporate bankruptcy risk model — 57% recall on real bankruptcies vs. 0% baseline |
