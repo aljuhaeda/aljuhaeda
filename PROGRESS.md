@@ -19,6 +19,16 @@ Stable. GitHub profile README, not an app — no build/deploy.
 - Each project row now carries its live demo link and current honest
   metrics (IndoBERT 89.7% acc / F1 0.87; BankruptWatch 57% recall @
   40.3% precision; BreastInsight 69% val acc).
+- Pushed live to GitHub 2026-08-30 (`f13e894`).
+
+## Verification log
+- 2026-08-30: Highlighted Projects links checked. 5 GitHub repo links
+  (MuslimAll, IndoNewsClassifier, KlasifikasiSentimenTwitter,
+  BankruptWatch, BreastInsight) → 200. 4 Streamlit demo links →
+  deployed at the correct URLs, showing the free-tier "app asleep"
+  wake page (expected; documented in each repo's PROGRESS). Metrics in
+  every row cross-checked against each project's own PROGRESS.md — no
+  invented numbers. Portfolio link `aljuhaeda.com` → 200, correct title.
 
 ## In progress
 - Nothing currently active.
