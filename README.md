@@ -6,13 +6,13 @@ Bogor, Indonesia
 
 I build ML models and data-driven applications, with published research in NLP and hands-on projects across text classification, medical imaging, and financial risk prediction.
 
-**Portfolio:** [portfolioaljuhaeda.vercel.app](https://portfolioaljuhaeda.vercel.app)
+**Portfolio:** [aljuhaeda.com](https://aljuhaeda.com)
 
 ---
 
 ### Focus
 
-- **Machine Learning & AI** — scikit-learn, TensorFlow, Keras, NLP, CNN, ensemble methods
+- **Machine Learning & AI** — scikit-learn, TensorFlow, Keras, NLP, CNN, IndoBERT, ensemble methods
 - **Data & Analytics** — Pandas, NumPy, Matplotlib, Google Analytics 4, SEMrush
 - **Cloud & Tools** — GCP, AWS (GenAI foundations), Docker, Git
 - **Mobile** — Flutter / Dart, GetX
@@ -22,15 +22,15 @@ I build ML models and data-driven applications, with published research in NLP a
 | Project | Stack | Result |
 | --- | --- | --- |
 | [**MuslimAll**](https://github.com/aljuhaeda/MuslimAll) | Flutter, Dart, GetX | Prayer times, full 5-prayer guide, and a 114-surah digital Qur'an reader for any Indonesian city |
-| [**IndoNewsClassifier**](https://github.com/aljuhaeda/IndoNewsClassifier) | Python, scikit-learn, NLP | Indonesian news text classifier — [live demo](https://indonewsclassifier.streamlit.app/) |
-| [**KlasifikasiSentimenTwitter**](https://github.com/aljuhaeda/KlasifikasiSentimenTwitter) | Python, scikit-learn, NLP | Naïve Bayes hate-speech classifier — **published in JISMAN Journal, Nov 2024** |
-| [**BankruptWatch**](https://github.com/aljuhaeda/BankruptWatch) | scikit-learn, RandomForest, AdaBoost, SMOTE | Corporate bankruptcy risk model — 57% recall on real bankruptcies vs. 0% baseline |
-| [**BreastInsight**](https://github.com/aljuhaeda/BreastInsight) | TensorFlow, Keras | 3-layer CNN classifying breast ultrasound images — 69% validation accuracy |
+| [**IndoNewsClassifier**](https://github.com/aljuhaeda/IndoNewsClassifier) | Python, scikit-learn, IndoBERT, NLP | Indonesian news classifier — TF-IDF 82.8% vs. fine-tuned IndoBERT 89.7% accuracy (macro-F1 0.87) — [live demo](https://indonewsclassifier.streamlit.app/) |
+| [**KlasifikasiSentimenTwitter**](https://github.com/aljuhaeda/KlasifikasiSentimenTwitter) | Python, scikit-learn, NLP | Multinomial Naïve Bayes hate-speech classifier — **published research** (see below) — [live demo](https://klasifikasisentimentwitter.streamlit.app/) |
+| [**BankruptWatch**](https://github.com/aljuhaeda/BankruptWatch) | scikit-learn, RandomForest, AdaBoost, SMOTE | Corporate bankruptcy risk model — catches 57% of real bankruptcies (vs. 0% baseline) at 40.3% precision — [live demo](https://bankruptwtch.streamlit.app/) |
+| [**BreastInsight**](https://github.com/aljuhaeda/BreastInsight) | TensorFlow, Keras | 3-layer CNN classifying breast ultrasound images — 69% validation accuracy, per-class recall reported — [live demo](https://breastinsight-aljuhaeda.streamlit.app/) |
 
 ### Publication
 
-Al Juhaeda, Z. I. (2024). *Sentiment Analysis of Hate Speech in Twitter Comments Using Naïve Bayes Classifier.* JISMAN Journal.
-[View on Garuda](https://garuda.kemdiktisaintek.go.id/documents/detail/4926421)
+Al Juhaeda, Z. I., Faisal, M., & Suhartono. (2024). *Sentiment Classification of Hate Speech Against Islam on Twitter Platform Using Multinomial Naïve Bayes.* Journal of Informatics and Science Media (JISMEDIA), 1(1), 34–38. ISSN 3064-1942.
+[Read the paper (PDF)](./Al-Juhaeda-2024-Hate-Speech-Classification-JISMEDIA.pdf)
 
 ### Contact
 

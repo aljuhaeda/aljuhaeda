@@ -7,18 +7,26 @@ Stable. GitHub profile README, not an app — no build/deploy.
 - Real bio, focus areas, and 5 highlighted projects (MuslimAll,
   IndoNewsClassifier, KlasifikasiSentimenTwitter, BankruptWatch,
   BreastInsight) with honest results, not inflated claims.
-- Links to the live portfolio site and JISMAN publication.
+- Portfolio link points at the live custom domain (aljuhaeda.com).
+- Publication citation corrected to the real venue (2026-08-30): the
+  paper is *Sentiment Classification of Hate Speech Against Islam on
+  Twitter Platform Using Multinomial Naïve Bayes*, Journal of
+  Informatics and Science Media (JISMEDIA), Vol. 1 Iss. 1, pp. 34–38,
+  July 2024, ISSN 3064-1942 (co-authors Muhammad Faisal, Suhartono).
+  The earlier "JISMAN Journal, Nov 2024" wording was a
+  misremembered venue for the same single paper — per the owner.
+- Paper PDF committed to the repo and linked from the README.
+- Each project row now carries its live demo link and current honest
+  metrics (IndoBERT 89.7% acc / F1 0.87; BankruptWatch 57% recall @
+  40.3% precision; BreastInsight 69% val acc).
 
 ## In progress
 - Nothing currently active.
 
 ## Known issues / honest limitations
-- The JISMAN citation here says "Nov 2024"; the corrected citation used
-  elsewhere (KlasifikasiSentimenTwitter's own `PROGRESS.md`, the
-  portfolio-website case study) is "Vol. 1 No. 2, Dec 2024." Not yet
-  reconciled here — flagged, not silently fixed, since it wasn't part of
-  the task that surfaced it.
+- KlasifikasiSentimenTwitter's own `README.md` and `PROGRESS.md` still
+  cite the paper as "JISMAN Journal" — not reconciled here since that's
+  a separate repo with its own close-out. Fix on next touch of that repo.
 
 ## Next up
-- Reconcile the JISMAN citation date/volume with the corrected version
-  used elsewhere, if/when this file gets touched again.
+- Reconcile the venue name in the KlasifikasiSentimenTwitter repo.
