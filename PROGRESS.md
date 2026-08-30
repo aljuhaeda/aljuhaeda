@@ -4,9 +4,12 @@
 Stable. GitHub profile README, not an app — no build/deploy.
 
 ## Done
-- Real bio, focus areas, and 5 highlighted projects (MuslimAll,
+- Real bio, focus areas, and 6 highlighted projects (MuslimAll,
   IndoNewsClassifier, KlasifikasiSentimenTwitter, BankruptWatch,
-  BreastInsight) with honest results, not inflated claims.
+  BreastInsight, Alfa Salam Kost) with honest results, not inflated claims.
+- Alfa Salam Kost row added 2026-08-30 — links both custom domains
+  (`alfasalamkost.aljuhaeda.com` site, `dashboard.alfasalamkost.aljuhaeda.com`)
+  and both repos.
 - Portfolio link points at the live custom domain (aljuhaeda.com).
 - Publication citation corrected to the real venue (2026-08-30): the
   paper is *Sentiment Classification of Hate Speech Against Islam on
