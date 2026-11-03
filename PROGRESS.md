@@ -37,9 +37,11 @@ Stable. GitHub profile README, not an app — no build/deploy.
 - Nothing currently active.
 
 ## Known issues / honest limitations
-- KlasifikasiSentimenTwitter's own `README.md` and `PROGRESS.md` still
-  cite the paper as "JISMAN Journal" — not reconciled here since that's
-  a separate repo with its own close-out. Fix on next touch of that repo.
+- ~~KlasifikasiSentimenTwitter's own `README.md` and `PROGRESS.md` still
+  cite the paper as "JISMAN Journal"~~ — **Done 2026-11-03**: fixed by
+  commit `b0be3b5` in ml-projects/KlasifikasiSentimenTwitter (citation now
+  JISMEDIA Vol. 1 Iss. 1, pp. 34–38, July 2024). Checked that repo's
+  README citation matches this repo's README.
 
 ## Next up
-- Reconcile the venue name in the KlasifikasiSentimenTwitter repo.
+- ~~Reconcile the venue name in the KlasifikasiSentimenTwitter repo.~~ Done 2026-11-03 (`b0be3b5`).
