@@ -20,7 +20,7 @@ Stable. GitHub profile README, not an app — no build/deploy.
   misremembered venue for the same single paper — per the owner.
 - Paper PDF committed to the repo and linked from the README.
 - Each project row now carries its live demo link and current honest
-  metrics (IndoBERT 89.7% acc / F1 0.87; BankruptWatch 57% recall @
+  metrics (IndoBERT 89.7% acc / F1 0.87, reported, not re-reproduced; BankruptWatch 57% recall @
   40.3% precision; BreastInsight 69% val acc).
 - Pushed live to GitHub 2026-08-30 (`f13e894`).
 
