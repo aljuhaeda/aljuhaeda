@@ -22,7 +22,7 @@ I build ML models and data-driven applications, with published research in NLP a
 | Project | Stack | Result |
 | --- | --- | --- |
 | [**MuslimAll**](https://github.com/aljuhaeda/MuslimAll) | Flutter, Dart, GetX | Prayer times, full 5-prayer guide, and a 114-surah digital Qur'an reader for any Indonesian city |
-| [**IndoNewsClassifier**](https://github.com/aljuhaeda/IndoNewsClassifier) | Python, scikit-learn, IndoBERT, NLP | Indonesian news classifier — TF-IDF 82.8% vs. fine-tuned IndoBERT 89.7% accuracy (macro-F1 0.87) — [live demo](https://indonewsclassifier.streamlit.app/) |
+| [**IndoNewsClassifier**](https://github.com/aljuhaeda/IndoNewsClassifier) | Python, scikit-learn, IndoBERT, NLP | Indonesian news classifier — TF-IDF 82.8% vs. fine-tuned IndoBERT 89.7% accuracy (macro-F1 0.87; reported from the original GPU run, not re-reproduced) — [live demo](https://indonewsclassifier.streamlit.app/) |
 | [**KlasifikasiSentimenTwitter**](https://github.com/aljuhaeda/KlasifikasiSentimenTwitter) | Python, scikit-learn, NLP | Multinomial Naïve Bayes hate-speech classifier — **published research** (see below) — [live demo](https://klasifikasisentimentwitter.streamlit.app/) |
 | [**BankruptWatch**](https://github.com/aljuhaeda/BankruptWatch) | scikit-learn, RandomForest, AdaBoost, SMOTE | Corporate bankruptcy risk model — catches 57% of real bankruptcies (vs. 0% baseline) at 40.3% precision — [live demo](https://bankruptwtch.streamlit.app/) |
 | [**BreastInsight**](https://github.com/aljuhaeda/BreastInsight) | TensorFlow, Keras | 3-layer CNN classifying breast ultrasound images — 69% validation accuracy, per-class recall reported — [live demo](https://breastinsight-aljuhaeda.streamlit.app/) |

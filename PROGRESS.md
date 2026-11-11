@@ -32,6 +32,7 @@ Stable. GitHub profile README, not an app — no build/deploy.
   wake page (expected; documented in each repo's PROGRESS). Metrics in
   every row cross-checked against each project's own PROGRESS.md — no
   invented numbers. Portfolio link `aljuhaeda.com` → 200, correct title.
+- 2026-11-11: IndoBERT 89.7% marked "reported from the original GPU run, not re-reproduced" (workspace review finding); the TF-IDF 82.8% was re-run from code on 2026-11-03.
 
 ## In progress
 - Nothing currently active.
