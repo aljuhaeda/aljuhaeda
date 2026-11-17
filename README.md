@@ -30,7 +30,7 @@ I build ML models and data-driven applications, with published research in NLP a
 
 ### Publication
 
-Al Juhaeda, Z. I., Faisal, M., & Suhartono. (2024). *Sentiment Classification of Hate Speech Against Islam on Twitter Platform Using Multinomial Naïve Bayes.* Journal of Informatics and Science Media (JISMEDIA), 1(1), 34–38. ISSN 3064-1942.
+Al Juhaeda, Z. I., Faisal, M., & Suhartono. (2024). *Sentiment Classification of Hate Speech Against Islam on Twitter Platform Using Multinomial Naïve Bayes.* Journal of Informatics and Science Media (JISMEDIA), 1(2), 31–38. ISSN 3064-1942.
 [Read the paper (PDF)](./Al-Juhaeda-2024-Hate-Speech-Classification-JISMEDIA.pdf)
 
 ### Contact

@@ -18,6 +18,10 @@ Stable. GitHub profile README, not an app — no build/deploy.
   July 2024, ISSN 3064-1942 (co-authors Muhammad Faisal, Suhartono).
   The earlier "JISMAN Journal, Nov 2024" wording was a
   misremembered venue for the same single paper — per the owner.
+  **Superseded 2026-11-17:** the journal's article page
+  (jismandiri.com/index.php/jisman/article/view/48) gives Vol. 1 No. 2,
+  pp. 31–38, December 2024; the README now cites 1(2), 31–38. The PDF's
+  running header is the outlier.
 - Paper PDF committed to the repo and linked from the README.
 - Each project row now carries its live demo link and current honest
   metrics (IndoBERT 89.7% acc / F1 0.87, reported, not re-reproduced; BankruptWatch 57% recall @
