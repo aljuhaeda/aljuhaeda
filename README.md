@@ -1,6 +1,6 @@
 # Zul Iflah Al Juhaeda
 
-**AI / Machine Learning Engineer  ·  Data Analyst**
+**Data & Machine Learning Engineer**
 Computer Science graduate (GPA 3.50 / 4.00) — UIN Maulana Malik Ibrahim Malang
 Bogor, Indonesia
 
