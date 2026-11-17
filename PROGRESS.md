@@ -46,7 +46,9 @@ Stable. GitHub profile README, not an app — no build/deploy.
   cite the paper as "JISMAN Journal"~~ — **Done 2026-11-03**: fixed by
   commit `b0be3b5` in ml-projects/KlasifikasiSentimenTwitter (citation now
   JISMEDIA Vol. 1 Iss. 1, pp. 34–38, July 2024). Checked that repo's
-  README citation matches this repo's README.
+  README citation matches this repo's README. **Superseded 2026-11-17:**
+  both READMEs now cite 1(2), pp. 31–38, December 2024 (journal article
+  page).
 
 ## Next up
 - ~~Reconcile the venue name in the KlasifikasiSentimenTwitter repo.~~ Done 2026-11-03 (`b0be3b5`).
